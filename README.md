@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @samueldf1507
+
 • 🖥️ I'm currently studying java and python 
+
 • 📶 I'm looking to improve my programming skills 
+
 • 📞 contanct me on:
 
 <!---
