@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samueldf1507
+• 👋 Hi, I’m @samueldf1507
 
 • 🖥️ I'm currently studying java and python 
 
