@@ -4,7 +4,8 @@
 
 • 📶 I'm looking to improve my programming skills 
 
-• 📞 contanct me on:
+• 📞 contanct me on: defrancescodev@gmail.com
+
 
 <!---
 samueldf1507/samueldf1507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
