@@ -1,6 +1,6 @@
 • 👋 Hi, I’m @samueldf1507
 
-• 🖥️ I'm currently studying java
+• 🖥️ I'm currently studying java, html and css
 
 • 📶 I'm looking to improve my programming skills 
 
